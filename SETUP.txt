@@ -1,0 +1,4 @@
+npm install
+npm start
+
+RUN "localhost:8080"
